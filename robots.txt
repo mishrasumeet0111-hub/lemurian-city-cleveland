@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cleveland.lemurianstudios.com/sitemap.xml
